@@ -1,4 +1,6 @@
 /* eslint-disable  quotes */
+/* eslint-disable comma-dangle */
+/* eslint-disable spaced-comment */
 
 import React from "react";
 import ReactDOM from "react-dom";
