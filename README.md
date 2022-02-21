@@ -34,3 +34,9 @@ npm start
 
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
 # react-todo-project
+
+### Author
+
+Exercise was completed by Vahan Khachvankian
+
+
