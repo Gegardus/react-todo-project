@@ -1,10 +1,12 @@
-import React from "react"
+/* eslint-disable  quotes */
+
+import React from "react";
 import TodoItem from "./TodoItem";
 
-const TodosList = props => {
+const TodosList = (props) => {
   return (
     <ul>
-      {props.todos.map(todo => (
+      {props.todos.map((todo) => (
         <TodoItem
           key={todo.id}
           todo={todo}
@@ -14,6 +16,6 @@ const TodosList = props => {
         />
       ))}
     </ul>
-  )
-}
-export default TodosList
+  );
+};
+export default TodosList;
